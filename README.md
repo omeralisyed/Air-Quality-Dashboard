@@ -1,1 +1,3 @@
 # Air-Quality-Dashboard
+
+Developed an interactive Tableau dashboard to analyze air quality across various states in India. The project involved data cleaning, time series analysis, and creating visualizations to track pollutants like SO2 and NO2. The dashboard includes geographical mapping, trend analysis, and comparative analysis across different states and regions. It highlights critical areas such as industrial zones and sensitive areas, providing insights into the impact of air quality policies.
